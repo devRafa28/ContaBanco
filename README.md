@@ -15,6 +15,6 @@ Este projeto simula uma conta bancária, permitindo que os usuários interajam c
 2. Abra o terminal ou o prompt de comando.
 3. Compile o arquivo utilizando o comando:
 
-## coamndos execução programa
+## comandos execução programa
 1. javac ContaBancaria.java
 2. java ContaBancaria
